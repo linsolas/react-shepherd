@@ -1117,8 +1117,8 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.6.2.tgz#a5ccec6abb6060d5f20d256fb03ed743e9774999"
 
 "@types/node@^12.6.9":
-  version "12.7.1"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.7.1.tgz#3b5c3a26393c19b400844ac422bd0f631a94d69d"
+  version "12.7.2"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.7.2.tgz#c4e63af5e8823ce9cc3f0b34f7b998c2171f0c44"
 
 "@types/q@^1.5.1":
   version "1.5.2"
@@ -1331,8 +1331,8 @@ acorn@^6.0.1, acorn@^6.0.7:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.2.0.tgz#67f0da2fc339d6cfb5d6fb244fd449f33cd8bbe3"
 
 acorn@^6.2.1:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.2.1.tgz#3ed8422d6dec09e6121cc7a843ca86a330a86b51"
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.3.0.tgz#0087509119ffa4fc0a0041d1e93a417e68cb856e"
 
 address@1.0.3:
   version "1.0.3"
@@ -3225,8 +3225,8 @@ error-ex@^1.2.0, error-ex@^1.3.1:
     is-arrayish "^0.2.1"
 
 error-stack-parser@^2.0.1:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/error-stack-parser/-/error-stack-parser-2.0.2.tgz#4ae8dbaa2bf90a8b450707b9149dcabca135520d"
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/error-stack-parser/-/error-stack-parser-2.0.3.tgz#9d3c000fb9f5c461f7c4e63c1aa75373ac7aaa36"
   dependencies:
     stackframe "^1.0.4"
 
@@ -7391,9 +7391,9 @@ postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.17, postcss@^7.0.2
     source-map "^0.6.1"
     supports-color "^6.1.0"
 
-preact@^8.4.2:
-  version "8.5.1"
-  resolved "https://registry.yarnpkg.com/preact/-/preact-8.5.1.tgz#3a86cf5f3d4f6eb3349fa1f106ad59756c2af0e3"
+preact@^8.5.1:
+  version "8.5.2"
+  resolved "https://registry.yarnpkg.com/preact/-/preact-8.5.2.tgz#2f532da485287c07369e08150cf4d23921a09789"
 
 prelude-ls@~1.1.2:
   version "1.1.2"
@@ -8394,8 +8394,8 @@ shellwords@^0.1.1:
   resolved "https://registry.yarnpkg.com/shellwords/-/shellwords-0.1.1.tgz#d6b9181c1a48d397324c84871efbcfc73fc0654b"
 
 shepherd.js@^4.4.1:
-  version "4.4.1"
-  resolved "https://registry.yarnpkg.com/shepherd.js/-/shepherd.js-4.4.1.tgz#8c8ed826eafbab73edd0b780295030f6c713ad52"
+  version "4.6.0"
+  resolved "https://registry.yarnpkg.com/shepherd.js/-/shepherd.js-4.6.0.tgz#96040a66ccb91485f300dde300ce9a2ce9380da4"
   dependencies:
     body-scroll-lock "^2.6.4"
     element-matches "^0.1.2"
@@ -8404,9 +8404,9 @@ shepherd.js@^4.4.1:
     nano-css "^5.2.0"
     object-assign-deep "^0.4.0"
     polished "^3.4.1"
-    preact "^8.4.2"
+    preact "^8.5.1"
     smoothscroll-polyfill "^0.4.4"
-    tippy.js "^5.0.0-beta.0"
+    tippy.js "^5.0.0-beta.1"
 
 signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.2"
@@ -8994,9 +8994,9 @@ tiny-emitter@^2.0.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/tiny-emitter/-/tiny-emitter-2.1.0.tgz#1d1a56edfc51c43e863cbb5382a72330e3555423"
 
-tippy.js@^5.0.0-beta.0:
-  version "5.0.0-beta.0"
-  resolved "https://registry.yarnpkg.com/tippy.js/-/tippy.js-5.0.0-beta.0.tgz#d5a0ea9fb92c63fc2ab0a8068577d1b467e3e6cd"
+tippy.js@^5.0.0-beta.1:
+  version "5.0.0-beta.1"
+  resolved "https://registry.yarnpkg.com/tippy.js/-/tippy.js-5.0.0-beta.1.tgz#0c5f8bbdfe865020ed48215fdd3cf4c92bafe512"
   dependencies:
     popper.js "^1.15.0"
 
